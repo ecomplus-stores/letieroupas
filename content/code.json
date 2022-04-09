@@ -1,5 +1,5 @@
 {
-  "css": "@media (min-width: 576px)\n.header__logo {\n    max-height: 100px !important;\n    max-width: 300px !important;\n}",
+  "css": ".header__logo{\n    max-height: 100px !important;\n    max-width: 300px !important;\n}",
   "html_head": "",
   "html_body": ""
 }
