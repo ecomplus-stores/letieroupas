@@ -1,12 +1,12 @@
 {
   "domain": "letieroupas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d99e89",
+  "primary_color": "#bf004e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f6ece8",
   "repository": "ecomplus-stores/letieroupas",
   "logo": "/img/uploads/letie_selo_azul-escuro_azul-claro_rgb.jpg",
   "name": "letieroupas",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f2dfd8",
+  "secondary_color": "#f9d5d1",
   "icon": "/img/uploads/letie_selo_rosa-escuro_azul-claro_rgb.png",
   "store_id": 44162,
   "description": "letieroupas",
