@@ -35,6 +35,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-16T01:16:34.224Z",
+          "end": "",
+          "img": "/img/uploads/vista-sedesonhos.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
