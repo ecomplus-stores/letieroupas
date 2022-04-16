@@ -1,5 +1,5 @@
 {
-  "css": ".header__logo{\n    max-height: 100px !important;\n    max-width: 300px !important;\n}\n.col-12{\n  flex:0 0 100%;\n  max-width:100%;\n}",
+  "css": ".header__logo{\n    max-height: 100px !important;\n    max-width: 300px !important;\n}\n.header__nav {\n   text-align: left !important;\n    padding: 22px 12px 23px !important;\n}\n\n@media screen and (max-width:576px){\n.banner picture{\n       margin: 0.1cm !important;\n  }\n}\n@media screen and (min-width:576px){\n.banner picture{\n       margin: 0.5cm !important;",
   "html_head": "",
-  "html_body": "<div class=\"banners-grid my-3 my-md-4 my-lg-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 477.333px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-5-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-5-.png\" media=\"\"><img></picture></a></div></div><div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 477.333px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-4-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-4-.png\" media=\"\"><img></picture></a></div></div></div></div></div>"
+  "html_body": ""
 }
