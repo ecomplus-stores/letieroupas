@@ -1,5 +1,5 @@
 {
-  "css": ".header__logo{\n    max-height: 100px !important;\n    max-width: 300px !important;\n}\n.header__nav {\n   text-align: left !important;\n    padding: 22px 12px 23px !important;\n}\n\n@media screen and (max-width:576px){\n.banner picture{\n       margin: 0.1cm !important;\n  }\n}\n@media screen and (min-width:576px){\n.banner picture{\n       margin: 0.5cm !important;\n  }\n\n.d-lg-inline {\n    display: none!important;\n}\n  \n.products-carousel__title a,.products-carousel__title span{\n  color: var(--primary) !important\n  }",
+  "css": ".header__logo{\n    max-height: 100px !important;\n    max-width: 300px !important;\n}\n.header__nav {\n   text-align: left !important;\n    padding: 22px 12px 23px !important;\n}\n\n@media screen and (max-width:576px){\n.banner picture{\n       margin: 0.1cm !important;\n  }\n}\n@media screen and (min-width:576px){\n.banner picture{\n       margin: 0.5cm !important;\n  }\n\n.d-lg-inline {\n    display: none!important;\n}\n  \n.products-carousel__title a,.products-carousel__title span{\n  color: var(--primary) !important\n  }\n  \n .shipping-line>small { \n   -webkit-line-clamp:inherit !important\n  }",
   "html_head": "",
   "html_body": ""
 }
