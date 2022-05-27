@@ -4,22 +4,22 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 7000,
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/outonoinverno.png",
+          "img": "/img/uploads/site-pc.jpg",
           "link": "",
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "",
-          "mobile_img": "/img/uploads/400x300.png"
+          "mobile_img": "/img/uploads/site-cel.jpg"
         },
         {
           "start": "2022-04-16T01:14:56.513Z",
           "end": "",
-          "img": "/img/uploads/rosa.png",
-          "mobile_img": "/img/uploads/400x300-vista-se-de-sonnhos.png"
+          "img": "/img/uploads/banner-site-2.png",
+          "mobile_img": "/img/uploads/banner-site-3.png"
         }
       ]
     },
