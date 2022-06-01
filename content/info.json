@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "para todo o brasil",
+    "title": "envio garantido"
   },
   "installments": {
     "show": true,
-    "text": "Pague via depósito ou Pix"
+    "text": "em até 10x",
+    "title": "parcele"
   },
   "exchange": {
     "show": false,
@@ -13,6 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Mínimo 8 peças"
+    "text": "8 peças",
+    "title": "mínimo"
   }
 }
