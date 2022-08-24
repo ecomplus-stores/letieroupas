@@ -10,8 +10,9 @@
     "title": "parcele"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "",
+    "title": "troca"
   },
   "promo": {
     "show": true,
