@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.17c0a47fcd1a6f188e16f46bd2fef21d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.544f029088efd710f4ff6becae08b374.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.150f934677a3cb0701bb550d8f4a2a24.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "letieroupas",
+  "short_name": "letieroupas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "letieroupas",
+  "background_color": "#f6ece8",
+  "theme_color": "#bf004e"
+}
